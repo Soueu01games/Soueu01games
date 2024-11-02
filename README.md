@@ -9,7 +9,7 @@ Hello, I'm a student learning how to program .
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-deeppink?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuela-helena-machado-mayeda-6ba8a82b3/)
 
-[![Trheads](https://img.shields.io/badge/trheads-deeppink?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@soueu01games)
+
 
 
 
