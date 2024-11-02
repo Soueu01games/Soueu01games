@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim  - About me
 Olá, eu sou uma estudante de 2° semestre em Análise e Desenvolvimento de sistemas e estou aprendendo a programar.
-Hello, I'm a student learning how to program .
+Hello, I'm a tech student learning how to program .
 
 ## 📎 Conecte-se Comigo - Conect with me
 [![Linktree](https://img.shields.io/badge/linktree-deeppink?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/soueu01games)
