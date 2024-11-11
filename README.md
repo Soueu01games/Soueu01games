@@ -29,5 +29,5 @@ HTML, CSS , PHP, C , Pacote Office e ferramentas google equivalentes.
 
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
-Última atualização em: 30/09/2024
-Last updated: 09/30/2024 
+Última atualização em: 11/11/2024
+Last updated: 11/11/2024 
