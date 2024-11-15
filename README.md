@@ -4,6 +4,9 @@
 Olá, eu sou uma estudante de 2° semestre em Análise e Desenvolvimento de sistemas e estou aprendendo a programar.
 Hello, I'm a tech student learning how to program .
 
+## Meu projeto em desenvolvimento
+https://github.com/Soueu01games/Projeto-programacao-web-Emanuela
+
 ## 📎 Conecte-se Comigo - Conect with me
 [![Linktree](https://img.shields.io/badge/linktree-deeppink?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/soueu01games)
 
@@ -29,5 +32,5 @@ HTML, CSS , PHP, C , Pacote Office e ferramentas google equivalentes.
 
 ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
 
-Última atualização em: 11/11/2024
-Last updated: 11/11/2024 
+Última atualização em: 15/11/2024
+Last updated: 11/15/2024 
